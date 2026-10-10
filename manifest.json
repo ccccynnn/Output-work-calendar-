@@ -1,0 +1,9 @@
+{
+  "name": "Cyn’s work calendar｜台灣與美國假日版",
+  "short_name": "Cyn’s calendar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcf8fb",
+  "theme_color": "#b89ab9",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
